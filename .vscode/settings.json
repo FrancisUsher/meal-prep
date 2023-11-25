@@ -1,0 +1,14 @@
+{
+  "editor.fontSize": 20,
+  "editor.mouseWheelZoom": true,
+  "prettier.configPath": ".prettierrc.js",
+  "[javascript]": {
+    "editor.defaultFormatter": "esbenp.prettier-vscode"
+  },
+  "[typescript]": {
+    "editor.defaultFormatter": "esbenp.prettier-vscode"
+  },
+  "editor.codeActionsOnSave": {
+    "source.fixAll.eslint": true
+  }
+}
